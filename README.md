@@ -1,6 +1,6 @@
-# Python-SQL-ETL-XGBoost-Spam-Message-Prediction-Model
+# Python-PostgreSQL-XGBoost-Spam-Message-Prediction
 
-![A receiver operating characteristic (ROC) curve that illustrates the accuracy of the XGBoost model used to predict whether an SMS is spam.](ROC_Curve.jpg)
+![A receiver operating characteristic (ROC) curve that illustrates the accuracy of the XGBoost model used to predict whether an SMS is spam.](ROC_Curve.png)
 
 A receiver operating characteristic (ROC) curve that illustrates the accuracy of the XGBoost model used to predict whether an SMS is spam.
 
