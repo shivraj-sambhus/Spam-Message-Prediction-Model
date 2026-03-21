@@ -12,12 +12,12 @@ Link to the data: https://archive.ics.uci.edu/dataset/228/sms+spam+collection
 
 # 2. Requirements
 ```
-Python 3.13
-pandas
-sqlalchemy
-scikit-learn
-matplotlib
-xgboost
+matplotlib==3.10.8
+pandas==3.0.1
+scikit_learn==1.8.0
+scipy==1.17.1
+SQLAlchemy==2.0.48
+xgboost==3.2.0
 PostgreSQL 18.3
 ```
 # 3. ETL and Feature Selection
